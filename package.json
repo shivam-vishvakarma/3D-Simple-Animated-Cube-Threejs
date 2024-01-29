@@ -1,0 +1,12 @@
+{
+  "name": "3d-cube-threejs",
+  "version": "1.0.0",
+  "description": "A simple 3d animated cube using threejs",
+  "main": "index.html",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.160.0"
+  }
+}
